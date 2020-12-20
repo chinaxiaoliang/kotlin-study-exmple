@@ -1,3 +1,5 @@
+package random
+
 import java.security.SecureRandom
 import java.util.concurrent.ThreadLocalRandom
 import kotlin.random.Random
